@@ -2,8 +2,6 @@
 # Display name
 title: 张立贤
 
-# Name pronunciation (optional)
-name_pronunciation: Zhang Lixian
 
 # Full name (for SEO)
 first_name: Lixian
@@ -23,8 +21,8 @@ role: Postdoctor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: National Supercomputing Center in Shenzhen
+    url: https://www.nsccsz.cn/nsccsz2024/bshjs/202402/9cf94a30-6b94-4e03-9244-ac16c9c017b5.shtml
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -178,4 +176,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lixian Zhang is a postdoctor of applied computer science at High Performance Computing Department, National Supercomputing Center in Shenzhen, Shenzhen, China. His research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
