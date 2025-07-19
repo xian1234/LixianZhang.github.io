@@ -32,14 +32,11 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
-      subtitle: ''
+      title: '📚 Research Interests'
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My work explores operator reconstruction and parallel optimization for vision models on domestic supercomputers, multimodal remote sensing data fusion, and trustworthy super-resolution imaging. I am currently a postdoctoral researcher at the National Supercomputing Center in Shenzhen.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        我的研究方向包括国产超算视觉基础模型算子重构与并行优化、多模态遥感数据融合，以及高至超高倍率的图像可信超分。
     design:
       columns: '1'
   - block: collection
